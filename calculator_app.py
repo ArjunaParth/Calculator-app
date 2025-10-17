@@ -3,7 +3,7 @@
 # ==========================
 # A calculator which can switch between
 # normal and scientific mode.
-# made for practice and learning purpose :)
+
 
 import math
 
